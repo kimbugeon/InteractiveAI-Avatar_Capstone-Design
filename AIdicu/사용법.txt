@@ -1,0 +1,4 @@
+1. vs code 에서 Server 폴더에 들어가 rag_api, tts_api에 필요한 패키지를 설치한다.
+2. 필요한 패키지를 설치하고 터미널 2개를 열어 한쪽에는 python rag_api.py, 다른쪽에는 python tts_api.py 
+를 입력해 서버를 열어준다.
+3. 유니티를 실행해 Unity_dicu 폴더를 열어 실행한다.
