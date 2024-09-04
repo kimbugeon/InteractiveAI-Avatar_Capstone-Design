@@ -1,5 +1,6 @@
 # InteractiveAI-Avatar_Capstone-Design
 특정 학과 및 학교에 대한 정보를 알려주는 인공지능 아바타  
+*unity 생성 파일(library, packages)은 용량이 너무 커서 제외시킨 복사본(Unity-dicu_2)을 올림*  
 : ChatGPT, RAG, Azure TTS, Unity 등 AI 기술 조사 및 활용법 학습  
 : Fine-tuning과 RAG 기술 중 본 프로젝트와 더 적합한 기술 실험  
 : RAG 기술을 활용한 언어모델이 fine-tuning 기술을 활용한 언어모델보다 정답률 및 정확도 측면에서 9배 이상의 향상된 성능을 보여서 RAG 기술을 채택
